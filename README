@@ -31,7 +31,7 @@ Patches
 - Numbers patch <https://tools.suckless.org/dmenu/patches/numbers/>
 - Fuzzy match patch <https://tools.suckless.org/dmenu/patches/fuzzymatch/>
 - Fuzzy highlight patch <https://tools.suckless.org/dmenu/patches/fuzzyhighlight/>
-
+- Colored Caret patch <https://tools.suckless.org/dmenu/patches/colored-caret/>
 
 Running dmenu
 -------------
