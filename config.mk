@@ -1,5 +1,5 @@
 # dmenu version
-VERSION = 5.2.0-patch.1
+VERSION = 5.2.0-patch.2
 
 # paths
 PREFIX = /usr/local

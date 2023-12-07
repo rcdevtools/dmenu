@@ -23,7 +23,8 @@ Afterwards enter the following command to build and install dmenu
 
 Patches
 -------
-- Center <https://tools.suckless.org/dmenu/patches/center/>
+- Center patch <https://tools.suckless.org/dmenu/patches/center/>
+- Grid patch <https://tools.suckless.org/dmenu/patches/grid/>
 
 
 Running dmenu
