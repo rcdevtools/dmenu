@@ -30,6 +30,7 @@ Patches
     - With custom border selection.
 - Numbers patch <https://tools.suckless.org/dmenu/patches/numbers/>
 - Fuzzy match patch <https://tools.suckless.org/dmenu/patches/fuzzymatch/>
+- Fuzzy highlight patch <https://tools.suckless.org/dmenu/patches/fuzzyhighlight/>
 
 
 Running dmenu
