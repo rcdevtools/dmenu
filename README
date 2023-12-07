@@ -27,6 +27,7 @@ Patches
 - Grid patch <https://tools.suckless.org/dmenu/patches/grid/>
 - Gridnav patch <https://tools.suckless.org/dmenu/patches/gridnav/>
 - Border patch <https://tools.suckless.org/dmenu/patches/border/>
+    - With custom border selection.
 - Numbers patch <https://tools.suckless.org/dmenu/patches/numbers/>
 - Fuzzy match patch <https://tools.suckless.org/dmenu/patches/fuzzymatch/>
 
